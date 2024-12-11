@@ -4,7 +4,7 @@ About Me
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/VMGORBACHEV/VMGORBACHEV/blob/main/DSCF6470.jpg" alt="Vladimir Gorbachev" width="200" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/VMGORBACHEV/VMGORBACHEV/main/DSCF6470.jpg" alt="Vladimir Gorbachev" width="200" style="border-radius: 50%;"/>
 </div>
 
 <h1 align="center">Hello👋</h1>
