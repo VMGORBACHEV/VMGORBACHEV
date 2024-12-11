@@ -3,6 +3,10 @@ About Me
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github.com/VMGORBACHEV/VMGORBACHEV/blob/main/DSCF6470.JPG" alt="Vladimir Gorbachev" width="200" style="border-radius: 50%;"/>
+</div>
+
 <h1 align="center">Hello👋</h1>
 
 <div align="center">
