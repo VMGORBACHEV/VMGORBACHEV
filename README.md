@@ -4,7 +4,7 @@ About Me
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/VMGORBACHEV/VMGORBACHEV/blob/main/DSCF6470.JPG" alt="Vladimir Gorbachev" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/VMGORBACHEV/VMGORBACHEV/blob/main/DSCF6470.jpg" alt="Vladimir Gorbachev" width="200" style="border-radius: 50%;"/>
 </div>
 
 <h1 align="center">Hello👋</h1>
@@ -23,5 +23,3 @@ About Me
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">I am a researcher with a keen interest in computational chemistry and non-covalent interactions. Based in Switzerland, I am currently engaged in projects that bridge experimental spectroscopy and computational methods.</p>
-
-###
