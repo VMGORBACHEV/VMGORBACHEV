@@ -1,21 +1,9 @@
-# Vladimir-Gorbachev
-About Me
+### Hello 👋
 
-<br clear="both">
+I am a Postdoctoral Fellow in **[Prof. P. Chen's group at ETH Zurich](https://chen.ethz.ch)** 🧪, where I previously earned a PhD in Physical Organic Chemistry. Before that, I modeled pharmaceutical downstream workflows at **Novartis** 💊 and technological systems during my MSc in Chemical Engineering 🏭. 
 
-<h1 align="center">Hello👋</h1>
+I enjoy tackling complex challenges, especially reconciling theory with experiment 🔬, and focus on creating models that capture underlying physics ⚙️. 
 
-<div align="center">
-  <a href="https://x.com/vmgorbachev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X (formerly Twitter) logo" />
-  </a>
-  <a href="https://ch.linkedin.com/in/vmgorbachev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-</div>
+🚀 Here, I am starting to share Python 🐍 tools and scripts from my ongoing research journey and invite collaboration along the way! 🤝
 
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">I am a researcher with a keen interest in computational chemistry and non-covalent interactions. Based in Switzerland, I am currently engaged in projects that bridge experimental spectroscopy and computational methods.</p>
+**Vladimir** 
