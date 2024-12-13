@@ -1,6 +1,6 @@
 ### Hello! 👋👋👋
 
-I am a Postdoc in **[Prof. P. Chen's group](https://chen.ethz.ch)** at **ETH Zürich**, where I previously earned a PhD in Physical Organic Chemistry. 🎓 
+I am a Postdoc in **[Prof. P. Chen's group](https://chen.ethz.ch)** at **ETH Zürich**, where I previously earned a [PhD in Physical Organic Chemistry](https://www.research-collection.ethz.ch/handle/20.500.11850/647402). 🎓 
 
 Before that, I developed Python tools to analyze and support pharmaceutical downstream processes at **Novartis** and modeled complex reaction networks in technological settings during my MSc in Chemical Engineering. 🧑‍🔬
 
